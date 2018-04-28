@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movies Browser</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="movie_image">Movie Thumbnail Image</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="details">Details</string>
+    <string name="movie_rating">Movie Rating</string>
+    <string name="movie_rating_label">Average Rating: </string>
+    <string name="movie_release_date">Movie Release Date</string>
+    <string name="movie_release_date_label">Movie Release Date: </string>
+    <string name="movie_overview">Movie Overview</string>
+</resources>
